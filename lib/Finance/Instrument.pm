@@ -9,6 +9,7 @@ use methods;
 use Finance::Instrument::Domain;
 use Finance::Instrument::Exchange;
 use MooseX::ClassAttribute;
+use DateTime;
 
 class_has global => (is => "rw", isa => "Financial::Instrument::Domain",
                      default => sub { Finance::Instrument::Domain->global },
