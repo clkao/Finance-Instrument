@@ -75,12 +75,15 @@ share/futures/XHKF.HSI.yml
 share/futures/XNYM.CL.yml
 share/futures/XNYM.GC.yml
 share/futures/XSES.TW.yml
+share/futures/XTAF.TX.yml
 share/iso10383_mic.csv
 t/00_compile.t
 t/01basic.t
 t/02override.t
 t/03exchanges.t
 t/04load.t
+t/05tplusone.t
+util/populate-cme-expiry.pl
 xt/release/perlcritic.t
 xt/release/pod.t
 xt/release/podspell.t
