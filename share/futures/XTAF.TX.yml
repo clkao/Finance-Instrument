@@ -1,0 +1,16 @@
+--- 
+type: Futures
+name: TX
+code: TX
+exchange: XTAF
+time_zone: Asia/Taipei
+month_cycle: FGHJKMNQUVXZ
+currency: TWD
+tick_size: 1
+multiplier: 200
+session:
+  -
+    - 525
+    - 825
+last_trading_day_close: 810
+contract_calendar: {}
