@@ -3,7 +3,7 @@ type: Futures
 name: GC
 code: GC
 exchange: XNYM
-tz: America/New_York
+time_zone: America/New_York
 month_cycle: GJMQVZ
 currency: USD
 tick_size: 0.1

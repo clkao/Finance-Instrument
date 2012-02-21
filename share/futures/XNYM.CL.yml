@@ -3,19 +3,17 @@ type: Futures
 name: CL
 code: CL
 exchange: XNYM
-tz: America/New_York
+time_zone: America/New_York
 month_cycle: FGHJKMNQUVXZ
 currency: USD
 tick_size: 0.01
 multiplier: 1000
-tz: America
 session:
   -
     - -360
     - 1035
 attributes:
   cme_path: energy/crude-oil/light-sweet-crude
---- 
 contract_calendar: 
   201001: 
     last_trading_day: 2009-12-20

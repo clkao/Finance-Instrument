@@ -3,7 +3,7 @@ type: Futures
 name: YM
 code: YM
 exchange: XCBT
-tz: America/Chicago
+time_zone: America/Chicago
 month_cycle: HMUZ
 currency: USD
 tick_size: 1
