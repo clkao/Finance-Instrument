@@ -326,3 +326,27 @@ contract_calendar:
     last_trading_day: 2012-11-21
   201212:
     last_trading_day: 2012-12-19
+  201301:
+    last_trading_day: 2013-01-16
+  201302:
+    last_trading_day: 2013-02-20
+  201303:
+    last_trading_day: 2013-03-20
+  201304:
+    last_trading_day: 2013-04-17
+  201305:
+    last_trading_day: 2013-05-15
+  201306:
+    last_trading_day: 2013-06-19
+  201307:
+    last_trading_day: 2013-07-17
+  201308:
+    last_trading_day: 2013-08-21
+  201309:
+    last_trading_day: 2013-09-18
+  201310:
+    last_trading_day: 2013-10-16
+  201311:
+    last_trading_day: 2013-11-20
+  201312:
+    last_trading_day: 2013-12-18
