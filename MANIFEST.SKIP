@@ -13,3 +13,6 @@
 \.cvsignore
 \.shipit
 ^cover_db/
+\.swp$
+^META\.*
+^MYMETA\.*
